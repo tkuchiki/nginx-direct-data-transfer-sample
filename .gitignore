@@ -1,0 +1,9 @@
+.bundle/*
+log/*
+!log/.gitkeep
+tmp/sockets/*
+!tmp/sockets/.gitkeep
+tmp/pids/*
+!tmp/pids/.gitkeep
+vendor/*
+nginx.conf
